@@ -1,0 +1,8 @@
+{
+  "name": "Rancho Payol - Comidas S/ Fotos",
+  "description": "Pratos de dar água na boca, drinks especiais e sua bebida favorita. Explore os sabores do Rancho Payol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
